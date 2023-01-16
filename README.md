@@ -34,3 +34,20 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black" alt="CodePen">
     <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" alt="Netlify">
 </p>
+
+
+<h2 align="center">Connect with me</h2>
+
+<p align="center">
+    <a href="https://github.com/Mohammed535-o" target="_blank">
+        <img src="https://img.shields.io/badge/-Github-181717?&logo=github&logoColor=white&style=for-the-badge" alt="GitHub">
+    </a>
+    <a href="https://www.linkedin.com/in/mohammed-zubair-74734a202/" target="_blank">
+        <img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn">
+    </a>
+    <a href="https://www.youtube.com/channel/UCh0Yh0qMiJQ0KjIZWXtSTYw" target="_blank">
+        <img src="https://img.shields.io/badge/-YouTube-FF0000?logo=youtube&logoColor=white&style=for-the-badge" alt="YouTube">
+    </a>
+</p>
+
+---
