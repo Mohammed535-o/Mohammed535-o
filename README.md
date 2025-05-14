@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently learning **the learning;**
 
-- 👨‍💻 All of my projects are available at [https://testing-7564a.web.app/](https://testing-7564a.web.app/)
-
 - 💬 Ask me about **C++, ChatBots, Algorithms;**
 
 - ⚡ Fun fact **I have a youtube channel 😁;**
